@@ -50,4 +50,17 @@
 - Openness
 - Respect
 
+### The Scrum Team
+- Consists of **Product Owner**, **Development Team**, and **Scrum Master**
+- Scrum teams are self organizing and cross-functional and chose best on how to accomplish
+their work, rather than being directed by outsiders.
+- The mode is designed to optimize **flexibility**, **creativity** and **productivity**
+- Scrum Teams develiver prodcuts iteratively and incrementally.
+- Incremental deliveries of *"Done"* product ensure a potentially useful version of working
+product is always available.
 
+#### The Product Owner
+
+#### The Development Team
+
+#### The Scrum Master
