@@ -1,0 +1,53 @@
+# Scrum Guide Notes
+
+- Definition of scrum - a framework within which people can address complex adaptive problems while productively and creatively delivering products of the highest possible value
+
+- Scrum is lightweight, simple to understand and difficult to master.
+
+- Scrum is a framework within you can employ various processes and techniques to continuously improving the product, the team and the working environment.
+
+- Scrum framework consists of Scrum Teams, their roles, events, artifacts and rules.
+
+- The rules of scrum bind together the rules, events and artifacts, governing the relationships and interaction between them.
+
+### Uses of Scrum
+- Research and identify viable markets, technologies and product capabilities
+- Develop product and enhancements
+- Release products and enhancements, as frequently as many times per day
+- Develop and sustain cloud and other operational environments for product use
+- Sustain and renew products
+
+> Scrum proved especially effective in iterative and incremental knowledge transfer.
+
+- The essence of scrum is a small team of people. The individual team is highly flexible and adaptive.
+- These strengths continue operating in single, several, many and networks of teams that develop, release, operate and sustain the work.
+
+### Scrum Theory
+- Scrum employs an iterative, incremental approach to optimize predictability and control risk.
+
+- Three pillars uphold every implementation of empirical process control: **transparency**, **inspection** and **adaptation**.
+
+##### Transparency
+- Significant aspects of the process must be visible to those responsible for the outcome.
+
+##### Inspection
+- Scrum users must frequently inspect Scrum artifacts and progress toward a Sprint Goal to detect undesirable variances. The inspection should not be so frequent.
+
+
+##### Adaptation
+- If an inspector determines one or more aspects of a process deviates outside acceptable limits, and the result is unacceptable the process must be adjusted. This adjustment must be made as soon as possible to minimize further deviation.
+
+##### Four formal events for inspection and adaptation
+1. Sprint Planning
+2. Daily Scrum
+3. Sprint Review
+4. Sprint Retrospective
+
+### Scrum Values
+- Commitment
+- Courage
+- Focus
+- Openness
+- Respect
+
+
