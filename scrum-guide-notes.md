@@ -60,6 +60,16 @@ their work, rather than being directed by outsiders.
 product is always available.
 
 #### The Product Owner
+- The product owner is responsible for maximizing value of the product
+- The product owner is the sole person responsible for managing the Product Backlog.
+- Product Backlog includes
+- - Clearly expressing Product Backlog items
+- - Ordering the items in the Product Backlog to best achieve goals and missions
+- - Ensuring thaht the Product Backlog is visible, transparent and clear to all
+- - Ensuring the Development Team understands items in the Product Backlog
+- Product Owner is one person not a committee
+- For the Product Owner to succeed the entire organization must respect his or her decisions.
+- No one can force the Development Team to work from a different set of requirements.
 
 #### The Development Team
 
