@@ -72,5 +72,29 @@ product is always available.
 - No one can force the Development Team to work from a different set of requirements.
 
 #### The Development Team
+- The development team consists of professionals who do the work of delivering
+a potentially product at the end of each Sprint.
+- Development Teams are structured and empowered to organize and manage their own work, creating
+a sinergy that optimizes the overall efficiency and effectiveness.
+- Characteristics:
+  - Self organizing. No one tells the Development Team how to turn the Product Backlog into 
+  Increments
+  - Development Teams are cross-functional, with all the skills as a team necessary to create a 
+  product Increment.
+  - Scrum recognizes no titles for Development Team members, regardless of the work being 
+  performed
+  - Scrum recognizes no sub-teams in Development Team, regardless of domains that need to be
+  addressed like testing, architecture, operations, etc
+  - Individual Development Team members may have specialized skills and areas of focus, but
+  accountability belongs to the Development Team as a whole.
+
+###### Development Team Size
+- Optimal Development Team size is small enough to remain nimble and large enough to complete
+significant work within a Sprint
+- Less than three members decrease interaction and small productivity gains
+- More than nine members requires too much coordination.
+- Large Development Teams generate too much complexity for an empirical process to be useful.
+- The Product Owner and Scrum Master roles are not included in this count unless they are also
+executing the work of the Sprint Backlog
 
 #### The Scrum Master
