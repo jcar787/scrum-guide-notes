@@ -98,3 +98,32 @@ significant work within a Sprint
 executing the work of the Sprint Backlog
 
 ### The Scrum Master
+- The Scrum Master is responsible for promoting and supporting Scrum.
+- The Scrum Master helps everyone to understand Scrum theory, practices, rules and values
+- The Scrum Master helps those outside the Scrum Team to understand the interactions to maximize
+the value
+
+#### Scrum Master Service to the Product Owner
+- Ensuring that goals, scope and product domain are understood by everyone
+- Finding techniques for effective Product backlog management
+- Helping the Scrum Team understand the need for clear and concise Product Backlog items
+- Understanding product planning in an empirical environment
+- Ensuring the Product Owner knows how to arrange the Product Backlog
+- Understanding and practicing agility
+- Facilitating Scrum events as requested or needed
+
+#### Scrum Master Service to the Development Team
+- Coaching the Development Team in self-organization and cross-functionality
+- Helping the Development Team to create high-value products
+- Removing impediments to the Development Team
+- Facilitating Scrum events as requested or needed
+- Coaching the Development Team in organizational environments in which Scrum is not yet
+adopted and understood
+
+#### Scrum Master Service to the Organization
+- Leading and coaching the organization in its Scrum adoption
+- Planning Scrum implementations within the organization
+- Helping employees and stakeholders understand and enact Scrum and empirical product development
+- Causing change that increases the productivity of the Scrum Team
+- Working with other Scrum Masters to increase the effectiveness of the application of Scrum in
+the organization
