@@ -127,3 +127,37 @@ adopted and understood
 - Causing change that increases the productivity of the Scrum Team
 - Working with other Scrum Masters to increase the effectiveness of the application of Scrum in
 the organization
+
+### Scrum Events
+- Prescribed events are used in Scrum to create regularity and minimize the need for meetings
+- All events are timed events, such that every event has a maximum duration
+- Once a Sprint begins it's duration is fixed and cannot be shortened or lengthened
+- All other events except for Sprint is a formal opportunity to inspect and adapt something
+- These events are designed to enable critical transparency and inspection
+- Failure to include these events results in reduced transparency
+
+#### The Sprint
+- Sprint is the heart of the Scrum, a time-box of one month or less, which a Done, useable,
+releasable product Increment is created.
+- Sprints have consistent durations.
+- A new Sprint starts immediately after the conclusion of the previous Sprint
+- Sprint consist of **Sprint Planning**, **Daily Scrums**, **development work**, 
+**Sprint Review** and **Sprint Retrospective**
+- During the Sprint
+  - No changes are made that would endager the Sprint Goal
+  - Quality goals do not decrease
+  - Scope may be clarified and re-negotiated between the Product Owner and Development team
+- Each Sprint has a goal of what is to be built, a design and flexible plan that will guide 
+building it, the work and the resultant product increment.
+- Sprints enable predictability by ensuring inspection and adaptation of progress toward a 
+Sprint Goal
+
+##### Cancelling a Sprint
+- A Sprint can be cancelled only by the Product Owner
+- A Sprint would be cancelled if the Sprint Goal becomes obsolete
+- When a Sprint is cancelled, any completed and "Done" Product Backlog items are reviewed.
+- If part of the work is releasable, the Product Owner typically accepts it
+- All incomplete Product Backlog Items are re-estimated and put back on the Product backlog
+- Sprint cancellations consume resources, since everyone regroups in another Sprint Planning 
+to start another Sprint.
+- Sprint cancellations are very uncommon.

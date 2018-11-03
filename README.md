@@ -14,7 +14,7 @@ You can find the book here [https://www.scrumguides.org/docs/scrumguide/v2017/20
   - [x] The Development Team
   - [x] The Scrum Master
 - [] Scrum Events
-  - [] The Sprint
+  - [X] The Sprint
   - [] Sprint Planning
   - [] Daily Scrum
   - [] Sprint Review
