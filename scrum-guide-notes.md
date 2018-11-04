@@ -161,3 +161,13 @@ Sprint Goal
 - Sprint cancellations consume resources, since everyone regroups in another Sprint Planning 
 to start another Sprint.
 - Sprint cancellations are very uncommon.
+
+### Sprint Planning
+- Plan is created by the collaborative work of the entire Scrum Team
+- Sprint Planning is time-boxed to a maximum of eight hours for a one month Sprint.
+- Sprint Planning answers the following
+  - What can be delivered in the Increment resulting from the upcoming Sprint?
+  - How will the work needed to deliver the Increment be achieved?
+
+#### Topic One: What can be done this Sprint?
+- 
