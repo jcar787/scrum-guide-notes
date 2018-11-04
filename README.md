@@ -13,16 +13,16 @@ You can find the book here [https://www.scrumguides.org/docs/scrumguide/v2017/20
   - [x] The Product Owner
   - [x] The Development Team
   - [x] The Scrum Master
-- [] Scrum Events
+- [ ] Scrum Events
   - [X] The Sprint
-  - [] Sprint Planning
-  - [] Daily Scrum
-  - [] Sprint Review
-  - [] Sprint Restrospective
-- [] Scrum Artifacts
-  - [] Product Backlog
-  - [] Sprint Backlog
-  - [] Increment
-- [] Artifact Transparency
-  - [] Definition of Done
-- [] Final Notes
+  - [ ] Sprint Planning
+  - [ ] Daily Scrum
+  - [ ] Sprint Review
+  - [ ] Sprint Restrospective
+- [ ] Scrum Artifacts
+  - [ ] Product Backlog
+  - [ ] Sprint Backlog
+  - [ ] Increment
+- [ ] Artifact Transparency
+  - [ ] Definition of Done
+- [ ] Final Notes
