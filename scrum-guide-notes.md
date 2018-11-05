@@ -170,4 +170,24 @@ to start another Sprint.
   - How will the work needed to deliver the Increment be achieved?
 
 #### Topic One: What can be done this Sprint?
-- 
+- The Development Team works to forecast the functionality that will be developed during the
+Sprint
+- The Product Owner discusses the objective that the Sprint should achieve and the Product
+Backlog items that would achieve the Sprint Goal.
+- The entire Scrum Team collaborates on understanding the work of the Sprint
+- The input of this meeting is the Product Backlog, the latest product Increment, projected
+capacity of the Development Team during the Sprint and the past performance of the Development
+Team
+- Only the Development Team can assess what it can accomplish over the upcoming Sprint
+- During Sprint Planning the Scrum Team also crafts a Sprint Goal, which is an objective that
+will be met within the Sprint.
+
+#### Topic Two: How will the chosen work get done?
+- The Development Team decides how it will build the functionality into a Done Product increment.
+- The Development Team self-organizes to undertake the work in the Sprint Backlog
+- The Product Owner can help to clarify the selected Product Backlog items and make trade-offs.
+- The Development Team may also invite other people to attend to provide technical advice.
+- By the end of the Sprint Planning the Development Team should be able to explain how it 
+intends to self-organize to accomplish the Sprint Goal.
+
+#### Sprint Goal
