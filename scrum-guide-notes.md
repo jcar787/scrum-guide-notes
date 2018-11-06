@@ -191,3 +191,11 @@ will be met within the Sprint.
 intends to self-organize to accomplish the Sprint Goal.
 
 #### Sprint Goal
+- The Sprint Goal is an objective set for the Sprint that can be met through the implementation
+of Product Backlog.
+- Provides guidance to the Development Team on why it is building the Increment
+- It gives the Development Team some flexibility regarding the functionality implemented
+- If the work turns out to be different than the Development Team expected, they collaborate
+with the Product Owner to negotiate the scope of Sprint Backlog within the Sprint.
+
+### Daily Scrum
