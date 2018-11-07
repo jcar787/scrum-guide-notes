@@ -16,7 +16,7 @@ You can find the book here [https://www.scrumguides.org/docs/scrumguide/v2017/20
 - [ ] Scrum Events
   - [X] The Sprint
   - [X] Sprint Planning
-  - [ ] Daily Scrum
+  - [X] Daily Scrum
   - [ ] Sprint Review
   - [ ] Sprint Restrospective
 - [ ] Scrum Artifacts

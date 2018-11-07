@@ -199,3 +199,26 @@ of Product Backlog.
 with the Product Owner to negotiate the scope of Sprint Backlog within the Sprint.
 
 ### Daily Scrum
+- The Daily Scrum is a 15 minute time-boxed for the Development Team.
+- The Daily Scrum is held every day of the Sprint.
+- The Development Team plans work for the next 24 hours
+- The Daily Scrum is held at the same time and place each day to reduce complexity
+- The Development Team uses the Daily Scrum to inspect progress toward the Sprint Goal and
+inspect how progress is trending toward completing the work in the Sprint Backlog
+- The Daily Scrum optimizes the probability that the Development Team will meet the Sprint Goal.
+- The three questions that should be answered in the Daily Scrum are:
+  - What did I do yesterday that helped the Development Team meet the Sprint Goal?
+  - What will I do today to help the Development Team meets the Sprint Goal?
+  - DO I see any impediment that prevents me or the Development Team from meeting the Sprint 
+  Goal?
+- The Development Team often meet immediately after the Daily Scrum for detailed discussions
+or to adapt or replan the rest of the Sprint's work
+- The Scrum Master ensures that the Development Team has the meeting, but the Development Team
+is responsible for conducting the Daily Scrum
+- The Scrum Master teaches the Development Team to keep the Daily Scrum within the 15 minute 
+time-box
+- The Daily Scrum is an internal meeting for the Development Team. If others are present, the
+Scrum Master ensures that they do not disrupt the meeting.
+- Daily Scrums improve communications, eliminate other meetings, identify impediments to 
+development for removal, highlight and promote quick decision-making and improve the Development
+Team's level of knowledge
