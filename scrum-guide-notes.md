@@ -128,7 +128,7 @@ adopted and understood
 - Working with other Scrum Masters to increase the effectiveness of the application of Scrum in
 the organization
 
-### Scrum Events
+## Scrum Events
 - Prescribed events are used in Scrum to create regularity and minimize the need for meetings
 - All events are timed events, such that every event has a maximum duration
 - Once a Sprint begins it's duration is fixed and cannot be shortened or lengthened
@@ -247,3 +247,20 @@ and foster collaboration
   anticipated releases of functionality or capability of the product
 - The result of the Sprint Review is a revised Product Backlog that defines the probable Product
 Backlog items for the next Sprints.
+
+### Sprint Retrospective
+- The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a
+plan for improvements to be enacted during the next Sprint
+- The Sprint Retrospective occurs after the Sprint Review and prior to the next Sprint Planning
+- This is at most a 3 hour meeting for one month Sprints, for shorter Sprints is shorter.
+- The purpose of the Sprint Retrospective is to:
+  - Inspect how the last Sprint went with regards to people, relationships, process and tools
+  - Identify and order the major items that went well and potential improvements
+  - Create a plan for implementing improvements to the way the Scrum Team does its work
+- The Scrum Master encourages the Scrum Team to improve, within the Scurm process framework
+- During each Sprint Retrospective the Scrum Team should have identified improvements that it 
+will implement in the next Sprint.
+- Implementing these improvements is the adaptation to inspection of the Scrum Team itself.
+- The Sprint Retrospective provides a formal opportunity to focus on inspection and adaptation.
+
+## Scrum Artifacts

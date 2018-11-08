@@ -13,12 +13,12 @@ You can find the book here [https://www.scrumguides.org/docs/scrumguide/v2017/20
   - [x] The Product Owner
   - [x] The Development Team
   - [x] The Scrum Master
-- [ ] Scrum Events
+- [X] Scrum Events
   - [X] The Sprint
   - [X] Sprint Planning
   - [X] Daily Scrum
   - [X] Sprint Review
-  - [ ] Sprint Restrospective
+  - [X] Sprint Restrospective
 - [ ] Scrum Artifacts
   - [ ] Product Backlog
   - [ ] Sprint Backlog
